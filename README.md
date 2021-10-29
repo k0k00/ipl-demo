@@ -3,4 +3,4 @@ Web App Deployment - IPL
 
 Deployed App Can Be Found Here:  https://ipl-score-pedictor.herokuapp.com/
 
-Updating The Detail Guide Soon...
+A Complete Walktrough Guide: https://www.analyticsvidhya.com/blog/2021/10/building-an-ipl-score-predictor-end-to-end-ml-project/
